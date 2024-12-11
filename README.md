@@ -7,9 +7,9 @@ HealthCare Developer
 As a Healthcare developers i am a skilled professional driving innovation in the rapidly evolving healthtech industry. I combine expertise in development, data management, and technology to create cutting-edge solutions that revolutionize healthcare. By leveraging technological advancements, healthcare we design and implement applications, systems, and platforms that enhance patient care, streamline processes, and improve the overall efficiency of healthcare delivery. My work plays a pivotal role in shaping the future of healthcare, ensuring it becomes more accessible, effective, and patient-centric.
 
 * 🌍  I'm based in India for now.
-* 🖥️  See my portfolio at [My Portfolio.](http://mmm)
+* 🖥️  See my portfolio at [My Portfolio.](https://sites.google.com/srmist.edu.in/project-portfolio/home?authuser=0)
 * ✉️  You can contact me at [dhanushkumar.kmk@gmail.com](mailto:dhanushkumar.kmk@gmail.com)
-* 🚀  I'm currently working on [research papers.](http://mmm)
+* 🚀  I'm currently working on [research papers.](https://sites.google.com/srmist.edu.in/project-portfolio/research-and-academic-contributions?authuser=0)
 * 🧠  I'm learning the digital transformation of healthcare to contribute to innovative solutions that shape the future of the industry and improve patient outcomes.
 * 🤝  I'm open to collaborating on Healthcare / Medtech related projects.
 * ⚡  "I aspire to integrate AI and machine learning into healthcare to advance personalized medicine."
