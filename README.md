@@ -8,7 +8,6 @@ As a Healthcare developers i am a skilled professional driving innovation in the
 
 * 🌍  I'm based in India for now.
 * 🖥️  See my portfolio at [My Portfolio.](https://sites.google.com/srmist.edu.in/project-portfolio/home?authuser=0)
-* ✉️  You can contact me at [dhanushkumar.kmk@gmail.com](mailto:dhanushkumar.kmk@gmail.com)
 * 🚀  I'm currently working on [research papers.](https://sites.google.com/srmist.edu.in/project-portfolio/research-and-academic-contributions?authuser=0)
 * 🧠  I'm learning the digital transformation of healthcare to contribute to innovative solutions that shape the future of the industry and improve patient outcomes.
 * 🤝  I'm open to collaborating on Healthcare / Medtech related projects.
